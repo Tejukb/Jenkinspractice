@@ -9,6 +9,7 @@ public class Jenkins04Test {
 	public void main() {
 		
 		System.out.println("Hi");
+		System.out.println("world");
 
 	}
 }
