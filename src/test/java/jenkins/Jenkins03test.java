@@ -1,10 +1,14 @@
 package jenkins;
 
-public class Jenkins03test {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
-		System.out.println("How are you?");
+public class Jenkins03test {
+	
+	
+	@Test
+	public void main() {
+		
+		System.out.println("Hi");
 
 	}
-
 }
