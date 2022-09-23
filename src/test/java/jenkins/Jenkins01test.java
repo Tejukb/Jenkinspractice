@@ -1,8 +1,12 @@
 package jenkins;
 
-public class Jenkins01test {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class Jenkins01test {
+	
+	
+	@Test
+	public void main() {
 		
 		System.out.println("Hi");
 
