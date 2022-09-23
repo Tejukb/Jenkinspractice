@@ -2,8 +2,7 @@ package jenkins;
 
 import org.testng.annotations.Test;
 
-public class ParameterizationTest {
-	
+public class Jenkins04Test {
 	
 	@Test
 	public void main() {
