@@ -2,7 +2,7 @@ package jenkins;
 
 import org.testng.annotations.Test;
 
-public class Jenkins01test {
+public class Jenkins03Test {
 	
 	
 	@Test
@@ -11,5 +11,4 @@ public class Jenkins01test {
 		System.out.println("Hi");
 
 	}
-
 }

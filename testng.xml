@@ -3,10 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="jenkins.Jenkins02test"/>
-      <class name="jenkins.Jenkins01test"/>
-      <class name="jenkins.Jenkins03test"/>
-      <class name="jenkins.Jenkins04test"/>
+      <class name="jenkins.Jenkins01Test"/>
+      <class name="jenkins.Jenkins03Test"/>
+      <class name="jenkins.Jenkins02Test"/>
+      <class name="jenkins.Jenkins04Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
