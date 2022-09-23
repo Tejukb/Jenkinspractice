@@ -2,5 +2,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
+    <classes>
+      <class name="jenkins.Jenkins02test"/>
+      <class name="jenkins.Jenkins01test"/>
+      <class name="jenkins.Jenkins03test"/>
+      <class name="jenkins.Jenkins04test"/>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
