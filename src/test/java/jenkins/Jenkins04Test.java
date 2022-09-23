@@ -8,8 +8,10 @@ public class Jenkins04Test {
 	@Test
 	public void main() {
 		
-		System.out.println("Hi");
-		System.out.println("world");
-
+ String browser = System.getProperty("b");
+ String url = System.getProperty("u");
+ 
+ System.out.println(browser);
+ System.out.println(url);
 	}
 }
